@@ -1,0 +1,21 @@
+{
+  "name": "luizbueno",
+  "version": "1.0.0",
+  "description": "Luiz Bueno Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/luizbueno.git"
+  },
+  "author": "Luiz Bueno <contact@luizbueno.me>",
+  "license": "ISC",
+  "engines": {
+    "node": "10.x"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
